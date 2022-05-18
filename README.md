@@ -1,2 +1,2 @@
 # testrepo
-pero for testing github
+repo for testing github and learning to make html pages.
